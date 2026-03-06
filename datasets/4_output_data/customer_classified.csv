@@ -1,0 +1,171 @@
+Customer Name,Group Name,Parent Name,Organization Type
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Jell-O,Jell,Kraft Heinz,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+Garnier,Garnier,L'Oréal,child_brand
+Neutrogena,Neutrogena,Johnson & Johnson,child_brand
+Pepsi,Pepsi Salty Watermelon,PepsiCo,parent_brand
+Milo,Milo cereals,Nestlé,child_brand
+Kiehl's,Kiehl's,L'Oréal,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+Olay,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Dove,Dove,Unilever,child_brand
+Ben and Jerry's,Unknown,Unknown,Other
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Ben & Jerry's,Unknown,Unknown,Other
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Vichy,Vichy's Vichy cosmetics,L'Oréal,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Head & Shoulders,Unknown,Unknown,Other
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Sour Patch Kids,Sour Patch Kids,Mondelez International,child_brand
+Maybelline,Maybelline,L'Oréal,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+CeraVe,Unknown,Unknown,Other
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Dove,Dove,Unilever,child_brand
+Dove,Dove,Unilever,child_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+Maybelline,Maybelline,L'Oréal,child_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+Sprite,Sprite Light,Coca-Cola Company,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Pepsi,Pepsi Salty Watermelon,PepsiCo,parent_brand
+La Roche Posay,Unknown,Unknown,Other
+Coca Cola,Coca-Cola Company,Coca-Cola Company,parent_brand
+Oscar Mayer,Oscar Mayer,Kraft Heinz,child_brand
+Dove,Dove,Unilever,child_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Fanta,Diet Fanta/Fanta light/Fanta Zero/Fanta Free,Coca-Cola Company,child_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+Lay,Mat Kool (Malaysia),Nestlé,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Sprite,Sprite Light,Coca-Cola Company,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Colgate,Colgate,Colgate-Palmolive,child_brand
+Olay,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Oral-B,Oral,Procter & Gamble,child_brand
+NescafÃ©,Nescafé,Nestlé,child_brand
+Häagen-Dazs,Häagen,Nestlé,child_brand
+Minute Maid,Minute Maid Light,Coca-Cola Company,child_brand
+Maxwell House,Maxwell House,Kraft Heinz,child_brand
+Gillette,"Gillette razors, shaving soap, shaving cream, body wash, shampoo, deodorant and anti",Procter & Gamble,child_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+NescafÃ©,Nescafé,Nestlé,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+L'OrÃ©al Paris,L'Oréal,L'Oréal,parent_brand
+KitKat,Kit,Nestlé,child_brand
+Doritos,Doritos Tortilla Chips,PepsiCo,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+Murphy Oil Soap,Murphy Oil Soap,Colgate-Palmolive,child_brand
+Pond's,Pond's Men,Unilever,child_brand
+L'OrÃ©al Paris,L'Oréal,L'Oréal,parent_brand
+CocaCola,Coca,Coca-Cola Company,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+Toblerone,Toblerone,Mondelez International,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Dove,Dove,Unilever,child_brand
+Ponds,Unknown,Unknown,Other
+Milo,Milo cereals,Nestlé,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Aveeno,Aveeno,Johnson & Johnson,child_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Chips Ahoy,Chips Ahoy!,Mondelez International,child_brand
+Olay,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Coca-Cola,Coca-Cola Company,Coca-Cola Company,parent_brand
+Sour PatchKids,Unknown,Unknown,Other
+L'OrÃ©al Paris,L'Oréal,L'Oréal,parent_brand
+Olay,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Motrin,Motrin,Johnson & Johnson,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+Unilever,Unilever Food Solutions,Unilever,parent_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Listerine,Listerine,Johnson & Johnson,child_brand
+OralB ,Oral,Procter & Gamble,child_brand
+Tide,Tide laundry detergents and products,Procter & Gamble,child_brand
+Maybelline,Maybelline,L'Oréal,child_brand
+NescafÃ©,Nescafé,Nestlé,child_brand
+Colgate,Colgate,Colgate-Palmolive,child_brand
+Mondelez International,Mondelez International,Mondelez International,parent_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Purina,Purina Cat Chow,Nestlé,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+Maybelline,Maybelline,L'Oréal,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+JellO,Jell,Kraft Heinz,child_brand
+Olay,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Dove,Dove,Unilever,child_brand
+Kraft Heinz Compan,Kraft Heinz,Kraft Heinz,parent_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Sprite,Sprite Light,Coca-Cola Company,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Head and Shoulders,Unknown,Unknown,Other
+Dove,Dove,Unilever,child_brand
+Sprite,Sprite Light,Coca-Cola Company,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+MaybellineNY,Maybelline,L'Oréal,child_brand
+Johnson & Johnson ,Johnson & Johnson Inc.,Johnson & Johnson,parent_brand
+Cheetos,Cheetos,PepsiCo,child_brand
+Milo,Milo cereals,Nestlé,child_brand
+LaRoch Posay,Unknown,Unknown,Other
+La Roche Posay,Unknown,Unknown,Other
+Dolce Gusto,Dolce Gusto,Nestlé,child_brand
+Chips Ahoy! ,Chips Ahoy!,Mondelez International,child_brand
+Maybelline New York,Maybelline,L'Oréal,child_brand
+Lancôme,Lancôme,L'Oréal,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Vaseline,Vaseline,Unilever,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+COLGATE-PALMOLIVE COMPANY,Palmolive,Colgate-Palmolive,child_brand
+L'OrÃ©al Paris,L'Oréal,L'Oréal,parent_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+Pepsi,Pepsi Salty Watermelon,PepsiCo,parent_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Hill's Science Diet,Unknown,Unknown,Other
+Lancome,Unknown,Unknown,Other
+Nestlé S.A.,Nestlé,Nestlé,parent_brand
+Lay's,"Olay body washes, beauty bar soap, lotions, face creams.",Procter & Gamble,child_brand
+Pepsi,Pepsi Salty Watermelon,PepsiCo,parent_brand
+Johnson's Baby,Johnson’s,Johnson & Johnson,child_brand
+La Roche-Posay,Unknown,Unknown,Other
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+L'OrÃ©al Paris,L'Oréal,L'Oréal,parent_brand
+Colgate,Colgate,Colgate-Palmolive,child_brand
+"PepsiCo, Inc..",Pepsi,PepsiCo,parent_brand
+Colgate,Colgate,Colgate-Palmolive,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+Kraft Mac & Cheese,Cheers,Coca-Cola Company,child_brand
+Rexona,"Rexona (Degree in the United States & Canada; Sure in the United Kingdom, Ireland and India; Shield in South Africa; Rexena in Japan)",Unilever,child_brand
+NYX Professional Makeup,NYX Professional Makeup,L'Oréal,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Pepsi,Pepsi Salty Watermelon,PepsiCo,parent_brand
+Nescafé,Nescafé,Nestlé,child_brand
+Fanta,Diet Fanta/Fanta light/Fanta Zero/Fanta Free,Coca-Cola Company,child_brand
+Pantene,Pantene hair care products (purchased from Hoffmann,Procter & Gamble,child_brand
+Fanta,Diet Fanta/Fanta light/Fanta Zero/Fanta Free,Coca-Cola Company,child_brand
+Oreo,Ore,Kraft Heinz,child_brand
+Heinz Ketchup,Heinz Ketchup,Kraft Heinz,parent_brand
+McDonald,Unknown,Unknown,Other
+KFC,Unknown,Unknown,Other
+MK restaurants,Unknown,Unknown,Other
+Hooray,Unknown,Unknown,Other
+Procter & Gamble Company,Procter & Gamble,Procter & Gamble,parent_brand
